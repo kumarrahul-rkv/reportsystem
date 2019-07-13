@@ -1,0 +1,16 @@
+{
+    "name": "ibarts/reportsystem",
+    "description": "An employee reporting system for project management system",
+    "authors": [
+        {
+            "name": "ibarts",
+            "email": "developer@ibarts.in"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ibarts\\Reportsystem\\": "src/"
+        }
+    }
+}
